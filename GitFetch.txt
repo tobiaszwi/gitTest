@@ -1,1 +1,8 @@
 Tu jest jakiś tekst
+tu 
+jest
+zmiana
+w
+tekście
+
+:)
